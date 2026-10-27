@@ -4,9 +4,7 @@ A little digital afterlife for the recipes, rabbit holes, and lines of code you 
 
 Native Android · Kotlin · Jetpack Compose · Room FTS4 · on-device ML Kit OCR
 
-[Project showcase](https://www.zelunhe.com/projects/screenshot-graveyard/) · [Download Android Preview (.zip)](downloads/Screenshot-Graveyard-0.2.0-preview.zip)
-
-Extract the download ZIP and open the APK on an Android device. The ZIP contains the verified v0.2.0 Preview installer; its checksum is in `downloads/`.
+[Project showcase](https://www.zelunhe.com/projects/screenshot-graveyard/) · [Download source](https://github.com/Zelun-He/screenshot-graveyard/archive/refs/heads/main.zip)
 
 ![App preview](docs/preview.png)
 

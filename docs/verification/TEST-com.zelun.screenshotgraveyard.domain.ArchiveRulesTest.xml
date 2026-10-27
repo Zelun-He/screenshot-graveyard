@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.zelun.screenshotgraveyard.domain.ArchiveRulesTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2026-10-27T14:40:54.911Z" hostname="4f485c27917e" time="0.061">
+  <properties/>
+  <testcase name="titleSkipsClockAndNoise" classname="com.zelun.screenshotgraveyard.domain.ArchiveRulesTest" time="0.019"/>
+  <testcase name="emptyRecognitionKeepsUsableFilename" classname="com.zelun.screenshotgraveyard.domain.ArchiveRulesTest" time="0.0"/>
+  <testcase name="titleLengthIsBounded" classname="com.zelun.screenshotgraveyard.domain.ArchiveRulesTest" time="0.001"/>
+  <testcase name="unicodeWordsArePreserved" classname="com.zelun.screenshotgraveyard.domain.ArchiveRulesTest" time="0.017"/>
+  <testcase name="searchIsPrefixAndAcrossAllWords" classname="com.zelun.screenshotgraveyard.domain.ArchiveRulesTest" time="0.0"/>
+  <testcase name="tagsAreNormalizedDeduplicatedAndBounded" classname="com.zelun.screenshotgraveyard.domain.ArchiveRulesTest" time="0.009"/>
+  <testcase name="byteLabelsDoNotPretendBurialFreesStorage" classname="com.zelun.screenshotgraveyard.domain.ArchiveRulesTest" time="0.003"/>
+  <testcase name="oversizedSearchIsBounded" classname="com.zelun.screenshotgraveyard.domain.ArchiveRulesTest" time="0.001"/>
+  <testcase name="suggestionsAreDeterministicAndExplainable" classname="com.zelun.screenshotgraveyard.domain.ArchiveRulesTest" time="0.009"/>
+  <testcase name="emptySearchDoesNotGenerateInvalidMatch" classname="com.zelun.screenshotgraveyard.domain.ArchiveRulesTest" time="0.0"/>
+  <testcase name="ftsOperatorsAndQuotesAreTreatedAsWords" classname="com.zelun.screenshotgraveyard.domain.ArchiveRulesTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

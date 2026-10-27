@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.zelun.screenshotgraveyard.domain.ImageViewportTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2026-10-27T14:40:54.975Z" hostname="4f485c27917e" time="0.003">
+  <properties/>
+  <testcase name="dragUsesScreenPixelsAtEveryZoomLevel" classname="com.zelun.screenshotgraveyard.domain.ImageViewportTest" time="0.001"/>
+  <testcase name="aLongScreenshotStaysWithinItsEdges" classname="com.zelun.screenshotgraveyard.domain.ImageViewportTest" time="0.0"/>
+  <testcase name="rotatingReclampsAnExistingPan" classname="com.zelun.screenshotgraveyard.domain.ImageViewportTest" time="0.0"/>
+  <testcase name="portraitFitPreservesAspectRatio" classname="com.zelun.screenshotgraveyard.domain.ImageViewportTest" time="0.0"/>
+  <testcase name="zoomLimitsAndFitAreEnforced" classname="com.zelun.screenshotgraveyard.domain.ImageViewportTest" time="0.001"/>
+  <testcase name="invalidGesturesCannotCreateAnInvalidTransform" classname="com.zelun.screenshotgraveyard.domain.ImageViewportTest" time="0.0"/>
+  <testcase name="zoomKeepsThePointUnderTheFinger" classname="com.zelun.screenshotgraveyard.domain.ImageViewportTest" time="0.0"/>
+  <testcase name="narrowImagesStayHorizontallyCenteredUntilTheyFillTheView" classname="com.zelun.screenshotgraveyard.domain.ImageViewportTest" time="0.0"/>
+  <testcase name="doubleTapZoomsThenResets" classname="com.zelun.screenshotgraveyard.domain.ImageViewportTest" time="0.0"/>
+  <testcase name="aFittedImageCannotBeDraggedAway" classname="com.zelun.screenshotgraveyard.domain.ImageViewportTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

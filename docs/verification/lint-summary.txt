@@ -1,0 +1,1 @@
+Warning: KaptUsageInsteadOfKsp — This library supports using KSP instead of kapt, which greatly improves performance. Learn more: https://developer.android.com/studio/build/migrate-to-ksp
